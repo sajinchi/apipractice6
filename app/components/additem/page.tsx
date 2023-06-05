@@ -1,6 +1,6 @@
 "use client";
 import { Product } from "@/app/common/types/page";
-import { Add, Update } from "@/app/services/product.services";
+import { Add } from "@/app/services/product.services";
 import React, { useState } from "react";
 import { useForm } from "react-hook-form";
 
